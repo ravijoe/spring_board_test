@@ -1,2 +1,2 @@
-# spring_board_test
-Testing git for springboard
+# Spring_Board
+contains all the assignments and material for the springboard data science career track 
